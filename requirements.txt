@@ -1,0 +1,9 @@
+adbc_driver_flightsql
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+plotly
+ipywidgets
